@@ -1,0 +1,9 @@
+c:\users\srikanth\documents\visual studio 2012\Projects\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe.config
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\obj\Debug\StudentGrades.GradeSummaryForm.resources
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.Cache
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\bin\Debug\StudentGrades.pdb
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\obj\Debug\StudentGrades.exe
+C:\Users\Srikanth\Documents\Visual Studio 2012\Projects\StudentGrades\StudentGrades\obj\Debug\StudentGrades.pdb
